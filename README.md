@@ -53,3 +53,7 @@ luego commitear y pushear los cambios.
 2. Creación de branches para trabajo en equipo.
 
 3. Realización de pull request.
+
+### Recursos
+
+- https://www.markdownguide.org/basic-syntax/
